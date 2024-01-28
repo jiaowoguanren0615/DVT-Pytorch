@@ -1,7 +1,9 @@
 <h1 align='center'>Dendritic Vision Transformer (DVT)</h1>
 
 # [DVT: Dendritic Learning-incorporated Vision Transformer for Image Recognition](https://www.ieee-jas.net/en/article/id/ec6a16fa-d348-417a-af0f-dd734c60439c)
-This is a warehouse for DVT-Pytorch-model, can be used to train your image-datasets for classification tasks.    
+This is a warehouse for DVT-Pytorch-model, can be used to train your image-datasets for classification tasks.  
+The code mainly comes from [official source code](https://github.com/zhangzm0128/DVT/tree/main).  
+___Now the code contain vit_base, vit_large, vit_huge models.___  
 
 ## Preparation
 ### Download the dataset: 
